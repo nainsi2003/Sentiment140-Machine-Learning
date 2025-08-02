@@ -7,7 +7,7 @@ This project performs sentiment analysis on tweets using the **Sentiment140 data
 ## 📚 Dataset
 
 - Dataset: [Sentiment140 on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
-- Contains 1.6 million tweets labeled as **positive (4)** or **negative (0)**
+- Contains 1.6 million tweets labeled as **positive (1)** or **negative (0)**
 - Fields used: tweet text and sentiment label
 
 ---
