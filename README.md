@@ -1,4 +1,4 @@
-# Alexa Sentiment Analyzer
+# Sentiment Analyzer
 
 A Streamlit-based web application that uses Machine Learning to analyze sentiment in Amazon Alexa product reviews. The model is trained using Logistic Regression with TfidfVectorizer for text classification.
 
